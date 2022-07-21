@@ -5,5 +5,6 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=namazii)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=namazii&repo=GitVK)](https://github.com/namazii/GitVK.git)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=namazii&repo=Unsplash)](https://github.com/namazii/Unsplash.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=namazii&repo=RickAndMortyAPI)](https://github.com/namazii/RickAndMortyAPI.git)
 [![codewars](https://www.codewars.com/users/namazi2/badges/large)](https://www.codewars.com/users/namazi2) 
 
